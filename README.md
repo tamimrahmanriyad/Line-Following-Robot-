@@ -19,3 +19,9 @@ Programming: The robot's behavior is programmed using the Arduino programming la
 Expansion Options: The Arduino-based robot can be expanded with additional modules or sensors to enhance its capabilities. 
 
 The line following Arduino-based robot is commonly used for educational purposes, robotics competitions, and hobby projects. It provides an excellent platform for learning about robotics, programming, and sensor integration, and it allows users to experiment with different algorithms and designs to optimize line tracking performance.
+
+
+
+
+https://github.com/tamimrahmanriyad/Line-Follwing-Robot-/assets/76222376/8cba648c-29f5-4272-88a8-42f5a055038d
+
