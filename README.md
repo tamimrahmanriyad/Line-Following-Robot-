@@ -14,7 +14,7 @@ Line Tracking Algorithm: The Arduino board runs a line tracking algorithm to int
 
 Power Source: The robot is powered by a battery pack or an external power supply connected to the Arduino board. The power source provides the necessary voltage and current to run the motors, sensors, and other components.
 
-Programming: The robot's behavior is programmed using the Arduino programming language, which is based on C. The programming code includes instructions for reading sensor values, controlling the motors, implementing the line tracking algorithm, and handling any additional features or functionalities.
+Programming: The robot's behavior is programmed using the Arduino programming language, which is based on C++. The programming code includes instructions for reading sensor values, controlling the motors, implementing the line tracking algorithm, and handling any additional features or functionalities.
 
 Expansion Options: The Arduino-based robot can be expanded with additional modules or sensors to enhance its capabilities. 
 
