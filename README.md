@@ -1,4 +1,4 @@
-# Line-Following-Robot
+## Line-Following-Robot
 A line-following Arduino-based robot is a small robotic system designed to autonomously follow a line on the ground using Arduino microcontroller boards. 
 It incorporates sensors, motors, and programming logic to achieve line-tracking capabilities. Here's a description of a typical line following an Arduino-based robot:
 
